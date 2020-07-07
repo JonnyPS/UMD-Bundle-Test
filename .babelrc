@@ -1,0 +1,7 @@
+{
+  "presets": [
+    ["@babel/preset-env", {
+      "modules": false // do not process es6 modules, leave as they are :)
+    }]
+  ]
+}
